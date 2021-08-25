@@ -1,2 +1,2 @@
 # nps2013
-A PHP and mysqli  saving form connected to database using PHP
+A simple PHP code for 'recording' contribution for 2013 Primary students. 
